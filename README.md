@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Saqii07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Saqii07/Saqii07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+~ pkg update
+~ pkg upgrade
+~ pkg install git
+~ pkg install python
+~ pkg install python2
+~ pip2 install requests
+~ pip2 install mechanize
+~ rm -rf hater
+https://github.com/k0shk0sh...
+~ cd Cloner-koshkosh
+~ python2 hater.py
+Tool username:- (Hater)
+Tool password:- (Lover)
