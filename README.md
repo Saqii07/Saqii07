@@ -6,9 +6,9 @@
 ~ pkg install python2
 ~ pip2 install requests
 ~ pip2 install mechanize
-~ rm -rf hater
-https://github.com/k0shk0sh...
-~ cd Cloner-koshkosh
+~ rm -rf hater07
+~https://github.com/hater07...
+~ cd Cloner-hater07
 ~ python2 hater.py
-Tool username:- (Hater)
-Tool password:- (Lover)
+~Tool username:- (Hater07)
+~Tool password:- (Lover)
